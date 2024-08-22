@@ -102,7 +102,7 @@ npm install
 TY_ACCOUNTS=[{"userName":"userName","password":"password"}]
 ```
 
-### 推送
+### 推送 
 
 修改 serverChan.js 或者添加环境变量 SENDKEY
 
